@@ -8,6 +8,7 @@ namespace Worldy
 {
     class Terrain
     {
+        //Test
         public static int gridSize = 512;    //CONSTANT
         public static float mountainJaggedness;
         public static int terrainComplexity;
